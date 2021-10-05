@@ -1,1 +1,15 @@
-haha
+#navbar {
+    background-color: pink;
+    height: 20rem;
+    display: flex;
+    justify-content: right;
+}
+
+
+footer {
+display: flex;
+justify-content: center;
+flex-direction: column;
+height: 20rem;
+background-color: pink;
+}
